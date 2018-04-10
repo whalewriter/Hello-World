@@ -1,1 +1,2 @@
 # Hello-World
+My name is Wendy Henry, and I am student at the University of Washington, majoring in Integrated Social Sciences. This is my final quarter, and I am taking my Capstone class. The whole purpose of this course is to finalize my learning in this program, by showcasing my "story" in an online Portfolio. I am excited to be part of the Git-Hub community, as well as embarking on a journey to create tools that may be useful for Social Sciences students who wish open source options while developing their sites. Let the journey begin!
